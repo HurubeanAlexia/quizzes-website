@@ -22,7 +22,7 @@ Quiz Hub is a web application for quizzes, allowing users to test their knowledg
 
 2. **Navigate to the project folder**:
     ```bash
-    cd quizapp
+    cd quizzes-website
     ```
 
 3. **Open the `home.html` file in your browser**:
