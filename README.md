@@ -55,3 +55,7 @@ Quiz Hub is a web application for quizzes, allowing users to test their knowledg
 - If you would like to add more quizzes, you can create new HTML pages for each quiz and add questions using the existing structure.
 - If you find any bugs or have suggestions for improving the site, feel free to create a pull request or open an issue in the repository.
 
+![_D__quizapp_html_home html](https://github.com/user-attachments/assets/c141fccf-0e5f-4977-9a1b-1aa9a51d8022)
+![_D__quizapp_html_quizzes html](https://github.com/user-attachments/assets/becab16a-93ef-46c3-b538-76083ca09e68)
+![_D__quizapp_html_quizzes html (1)](https://github.com/user-attachments/assets/62f14fff-05a6-4e6c-ad25-24a0f868da60)
+![_D__quizapp_html_mitology html](https://github.com/user-attachments/assets/c9584388-daf0-45db-a31c-6b7b5cb03e66)
